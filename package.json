@@ -1,0 +1,11 @@
+{
+  "name"   : "sentence",
+  "version": "0.0.1",
+  "main"   : "engine.js",
+  "license": "MIT",
+  "author" : "Nadim",
+  "type"   : "module",
+  "scripts": {
+    "compile": "node ./engine.js"
+  }
+}
